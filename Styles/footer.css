@@ -1,0 +1,10 @@
+#footer{
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    background: #AAA;
+    line-height: 50px;
+    font-size: small;
+    height: 50px;
+    width: 100%;
+}

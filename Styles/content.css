@@ -1,0 +1,34 @@
+body{
+    background-color: #CCC;
+}
+
+#content{
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    margin: 50px;
+    justify-content: space-around;
+}
+
+.post-box{
+    position: relative;
+    margin: 20px 50px;
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.post-button{
+    position: relative;
+    padding: 5px 10px;
+    background-color: #AAA;
+    border: none;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 60px;
+    margin-top: 45px;
+    
+
+}

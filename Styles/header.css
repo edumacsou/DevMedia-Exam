@@ -1,0 +1,52 @@
+.header-button{
+    text-decoration: none;
+    background-color: none;
+    background: none;
+    border: none;
+    height: 25px;
+
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    text-align: center;
+    background-color: #AAA;
+    height: 100%;
+    padding: 5px 35px;
+}
+#right {
+    display: flex;
+    flex-wrap: nowrap;
+    position: relative;
+    text-align: right;
+}
+#left {
+    display:flex;
+    position: relative;
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+input[type="text"]{
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    color: #AAA;
+}
+#logo{
+    padding-top: 5px;
+    width: 50px;
+    height: 50px;
+}
+#searchBar{
+    background: white;
+    border-radius: 10px;
+    height: 25px;
+}
+button{
+    padding: 4px 5px 4px 3px;
+    border-radius: 10px;
+    background-color: white;
+}
